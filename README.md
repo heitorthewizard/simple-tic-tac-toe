@@ -1,5 +1,5 @@
 #How to play it
-you can play online on:
+you can play online on: https://heitorthewizard.github.io/simple-tic-tac-toe/
 
 1. Download
 2. Go to frontend
