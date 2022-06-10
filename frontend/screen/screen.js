@@ -1,0 +1,5 @@
+display.app()
+display.container()
+display.tittle()
+display.board()
+display.restartButton()
