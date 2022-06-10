@@ -19,7 +19,7 @@ let gameOver = false
 
 let player = 'X'
 
-let winner = 'No winner'
+let winner = 'No One'
 
 let checks = 0
 
@@ -90,7 +90,7 @@ function clearBoardValues() {
     ]
 
     gameOver = false
-    winner = ''
+    winner = 'No One'
     checks = 0
     player = 'X'
 }
